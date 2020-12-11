@@ -1,0 +1,12 @@
+.container {
+  margin-top: 3%;
+  margin-left: 3%;
+  width: 100vw;
+  height: 100vh;
+  margin-left: 25%;
+}
+
+.video {
+  width: 50%;
+  height: 50%;
+}

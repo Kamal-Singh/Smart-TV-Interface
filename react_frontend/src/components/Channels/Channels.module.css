@@ -1,0 +1,11 @@
+.container {
+  margin-top: 3%;
+  margin-left: 3%;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.title {
+  font-size: 4em;
+  margin-left: 2%;
+}

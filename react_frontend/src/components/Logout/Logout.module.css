@@ -1,0 +1,13 @@
+.title {
+  height: 100vh;
+  width: 100vw;
+  text-align: center;
+  font-size: 3em;
+  display: block;
+}
+
+.title > h1 {
+  position: absolute;
+  top: 25%;
+  left: 20%;
+}

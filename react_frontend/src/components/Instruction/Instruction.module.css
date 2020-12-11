@@ -1,0 +1,18 @@
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.9);
+  color: white;
+  display: flex;
+  width: 100vw;
+  flex-wrap: wrap;
+  z-index: 3;
+}
+
+.element {
+  padding: 10px;
+  margin: auto;
+  flex-direction: row;
+  justify-content: center;
+}
