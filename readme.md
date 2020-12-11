@@ -1,7 +1,7 @@
 - Smart TV Web Interface
 
 - Made By: Kamal Singh Yadav
-- Email: ksinghyadav@ymail.com
+- Email: <Hidden>
 
 Note: Demonstration.mp4 shows the demo of the project just in case you are facing issues with setting up the project.
 
